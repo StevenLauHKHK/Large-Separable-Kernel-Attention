@@ -19,7 +19,7 @@ When using this code, kindly reference:
   journal={Expert Systems with Applications},
   volume={236},
   pages={121352},
-  year={2024},
+  year={2023},
   publisher={Elsevier}
 }
 ```
